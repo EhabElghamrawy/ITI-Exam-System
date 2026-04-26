@@ -15,6 +15,6 @@ Database Schema (ERD)
 Getting Started
 1. Open SQL Server Management Studio (SSMS).
 2. Right-click on **Databases** -> **Restore Database**.
-3. Select the `ITI.bak` file provided in this repository.
-4. Execute the `Final Project Query.sql` to explore the schema and procedures.
+3. Select the ITI.bak file provided in this repository.
+4. Execute the Final Project Query.sql to explore the schema and procedures.
 
